@@ -1,5 +1,3 @@
 # Modulo1-TyHM-II: Toma de Decisiones
-# Selección y Evaluación de Factibilidad del Trabajo Final de Carrera mediante Gemini Notebook
-
 En este repositorio se encuentra el Trabajo Práctico N°1 del Módulo 1 (Toma de decisiones) de la cátedra Técnicas y Herramientas Modernas II. Utilizamos Gemini Notebook como herramienta de investigación para estudiar, resumir y contrastar tres propuestas de tema para nuestro Trabajo Final de Carrera, y así elegir la más adecuada apoyándonos en datos, evidencia científica y en los intereses profesionales del grupo.
 
